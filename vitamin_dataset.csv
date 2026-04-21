@@ -1,0 +1,2001 @@
+fatigue,pale_skin,dry_skin,bone_pain,vision_blur,mouth_ulcers,bleeding_gums,muscle_cramps,headache,numbness_tingling,brittle_nails,easy_bruising,hair_loss,swollen_joints,night_sweats,disease_diagnosis
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,Magnesium Deficiency
+0,0,0,1,0,0,1,0,0,0,1,1,0,1,0,Vitamin K Deficiency
+1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,Calcium Deficiency
+1,0,1,1,0,0,0,1,0,0,0,0,0,0,1,Vitamin D Deficiency
+0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Healthy
+0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Vitamin A Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,1,0,0,1,0,1,0,0,0,0,Folate B9 Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,Calcium Deficiency
+0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,0,0,0,0,1,0,0,1,1,1,1,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,Healthy
+1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Vitamin A Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,Calcium Deficiency
+1,1,1,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,1,0,0,0,0,1,0,0,1,0,0,0,0,1,Magnesium Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,1,0,0,0,1,0,0,1,0,1,0,0,Calcium Deficiency
+0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,Calcium Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Magnesium Deficiency
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,1,0,0,0,1,0,0,1,0,0,0,0,1,Vitamin D Deficiency
+0,0,0,1,0,0,1,1,0,1,1,0,1,0,0,Calcium Deficiency
+1,1,0,0,0,1,0,0,0,1,0,0,0,1,0,Iron Deficiency
+1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,0,0,0,0,0,0,0,1,0,1,0,0,Vitamin B12 Deficiency
+1,0,0,1,0,0,0,0,1,1,0,0,0,0,0,Vitamin D Deficiency
+1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+1,0,0,0,0,1,0,0,0,1,0,0,1,0,0,Vitamin B12 Deficiency
+1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,0,1,0,0,0,1,0,1,1,0,0,0,0,Calcium Deficiency
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Folate B9 Deficiency
+1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,Iron Deficiency
+0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Magnesium Deficiency
+0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,Calcium Deficiency
+0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,Calcium Deficiency
+0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,Calcium Deficiency
+0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Vitamin B12 Deficiency
+1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,Iron Deficiency
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B12 Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,1,0,0,1,1,0,0,1,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,Vitamin K Deficiency
+0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,Magnesium Deficiency
+1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,Healthy
+1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Vitamin K Deficiency
+0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,Healthy
+1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,Vitamin K Deficiency
+0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Vitamin D Deficiency
+1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Folate B9 Deficiency
+1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,Healthy
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,1,0,0,Vitamin C Deficiency
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Healthy
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Vitamin D Deficiency
+0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,Calcium Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,Iron Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Magnesium Deficiency
+0,0,1,0,0,1,1,0,0,0,0,0,1,0,0,Vitamin C Deficiency
+1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,Vitamin B12 Deficiency
+1,1,0,0,1,0,0,0,1,0,0,0,1,0,0,Folate B9 Deficiency
+0,0,0,1,0,0,1,0,0,1,0,1,0,1,1,Vitamin K Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Folate B9 Deficiency
+0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,Calcium Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Magnesium Deficiency
+0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,Healthy
+0,1,0,0,0,1,1,0,0,0,1,0,0,0,0,Vitamin C Deficiency
+0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,Vitamin D Deficiency
+1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,Magnesium Deficiency
+0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Healthy
+1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,Iron Deficiency
+1,1,0,1,0,0,0,1,1,0,0,0,0,0,0,Folate B9 Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,Iron Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,1,0,1,1,0,0,0,0,0,0,0,1,0,0,Folate B9 Deficiency
+0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,1,1,0,0,1,0,0,0,0,0,0,1,0,0,Iron Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Iron Deficiency
+1,1,0,0,1,0,0,0,0,0,1,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,Vitamin C Deficiency
+1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,Vitamin D Deficiency
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,Healthy
+0,0,0,1,0,1,0,0,1,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,1,0,0,0,0,0,0,1,0,0,0,0,0,1,Magnesium Deficiency
+0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,Vitamin K Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,Vitamin K Deficiency
+0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,Iron Deficiency
+0,0,1,0,0,0,1,0,0,0,0,1,0,1,0,Vitamin K Deficiency
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Healthy
+0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,Vitamin A Deficiency
+0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,1,1,0,0,0,0,0,0,1,0,0,0,0,0,Iron Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,0,0,1,0,1,0,0,0,1,0,0,1,0,0,Vitamin B6 Deficiency
+1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,Vitamin B12 Deficiency
+0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,Vitamin K Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,Calcium Deficiency
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,1,0,0,1,0,0,0,1,0,0,1,0,0,Iron Deficiency
+1,0,1,0,0,1,0,0,1,1,1,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,1,0,0,0,0,1,1,0,0,0,0,0,0,0,Vitamin K Deficiency
+0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Healthy
+0,0,1,1,0,0,0,1,0,0,0,0,1,0,0,Calcium Deficiency
+1,0,1,0,0,1,0,0,0,0,0,1,0,0,0,Vitamin C Deficiency
+1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,Vitamin D Deficiency
+0,0,0,0,0,1,0,0,1,1,1,0,1,0,0,Vitamin B6 Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Folate B9 Deficiency
+1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,Folate B9 Deficiency
+0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,Vitamin K Deficiency
+1,0,0,0,0,1,1,0,0,0,0,1,0,0,0,Iron Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin C Deficiency
+0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,Healthy
+1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Folate B9 Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,1,0,0,0,0,1,0,1,1,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,Folate B9 Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,Magnesium Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+0,0,1,1,0,1,0,0,0,0,0,0,0,1,0,Calcium Deficiency
+1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,Magnesium Deficiency
+1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+0,1,1,0,0,0,0,0,0,1,0,0,1,0,0,Vitamin A Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,Folate B9 Deficiency
+1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,Folate B9 Deficiency
+1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,Vitamin D Deficiency
+0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,Vitamin D Deficiency
+1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin D Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,Vitamin K Deficiency
+0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,Iron Deficiency
+0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,Vitamin K Deficiency
+0,0,1,1,1,0,0,0,0,0,0,0,0,1,0,Vitamin A Deficiency
+0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,Vitamin K Deficiency
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,Calcium Deficiency
+0,1,1,1,1,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,0,0,0,0,1,0,0,0,1,0,1,0,0,0,Vitamin B6 Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,Magnesium Deficiency
+0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,Calcium Deficiency
+1,1,1,0,0,0,0,0,0,0,0,1,1,0,0,Iron Deficiency
+0,1,0,0,0,1,0,0,1,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Folate B9 Deficiency
+1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Vitamin D Deficiency
+0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,Vitamin C Deficiency
+1,0,0,0,1,0,0,1,1,0,0,0,1,0,0,Magnesium Deficiency
+0,0,1,0,0,0,1,0,0,0,0,1,0,1,0,Vitamin K Deficiency
+0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Healthy
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,0,0,0,0,0,0,1,0,1,0,1,0,0,1,Magnesium Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Healthy
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,Vitamin B12 Deficiency
+0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,1,1,0,Vitamin K Deficiency
+0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,Magnesium Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Magnesium Deficiency
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Magnesium Deficiency
+0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,0,0,0,0,1,0,0,0,0,0,1,1,0,1,Vitamin B12 Deficiency
+0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,Magnesium Deficiency
+1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Vitamin D Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Iron Deficiency
+0,0,1,1,0,0,0,1,1,0,1,0,0,0,0,Calcium Deficiency
+0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,Vitamin A Deficiency
+0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,Calcium Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Iron Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Vitamin K Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Magnesium Deficiency
+0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,1,1,0,0,1,0,0,0,1,0,1,0,0,0,Vitamin B6 Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,Calcium Deficiency
+0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,Calcium Deficiency
+0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,Calcium Deficiency
+1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Vitamin D Deficiency
+0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,Vitamin C Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Iron Deficiency
+0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,Vitamin C Deficiency
+0,0,0,0,0,1,0,0,0,1,0,0,1,0,0,Vitamin B6 Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Vitamin A Deficiency
+0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,1,0,0,0,1,0,0,1,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Healthy
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,1,0,0,1,0,0,0,0,0,0,0,1,0,Vitamin C Deficiency
+0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,Iron Deficiency
+0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,Vitamin A Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Healthy
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,0,0,1,0,0,1,1,1,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,0,0,1,1,0,0,0,1,0,0,0,0,Vitamin C Deficiency
+1,0,0,0,0,0,1,1,0,1,0,0,0,0,0,Magnesium Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,Folate B9 Deficiency
+1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,Magnesium Deficiency
+0,0,1,0,1,0,1,1,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Healthy
+1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,0,0,1,0,0,1,0,0,0,1,1,0,0,0,Vitamin K Deficiency
+1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Magnesium Deficiency
+0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,Calcium Deficiency
+0,0,0,0,1,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,0,1,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,Vitamin D Deficiency
+1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,Folate B9 Deficiency
+0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,Magnesium Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,1,0,0,0,1,0,0,1,0,0,1,1,0,0,Folate B9 Deficiency
+0,0,0,0,0,0,1,0,1,0,0,1,0,1,0,Vitamin K Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,Calcium Deficiency
+1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,Vitamin A Deficiency
+0,0,0,0,0,1,1,0,0,0,1,0,0,0,0,Vitamin C Deficiency
+0,0,0,1,1,0,0,1,0,1,0,0,0,0,0,Calcium Deficiency
+1,0,0,0,0,0,0,1,0,1,0,1,0,1,1,Magnesium Deficiency
+1,0,1,1,0,0,0,0,0,0,0,0,1,0,0,Vitamin D Deficiency
+0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,Vitamin C Deficiency
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,Magnesium Deficiency
+0,0,0,0,1,0,0,0,0,0,0,1,1,0,0,Vitamin K Deficiency
+1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,1,0,0,0,0,1,0,0,0,0,0,1,0,Calcium Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Vitamin A Deficiency
+1,0,0,0,0,1,0,1,0,1,0,0,0,0,1,Magnesium Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,1,1,1,0,0,0,1,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,0,0,0,0,1,1,0,0,0,0,1,0,0,0,Vitamin C Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,0,0,0,0,1,0,1,0,0,1,0,0,0,0,Magnesium Deficiency
+0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,Vitamin K Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,Healthy
+1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,Vitamin B12 Deficiency
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,Vitamin A Deficiency
+0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,Vitamin D Deficiency
+1,0,0,0,0,0,1,1,1,1,0,0,0,0,1,Magnesium Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,Vitamin D Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Healthy
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,1,1,0,0,0,0,0,1,0,0,0,1,0,0,Iron Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,Iron Deficiency
+1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,Folate B9 Deficiency
+0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,Vitamin D Deficiency
+0,0,0,1,0,0,0,1,0,1,0,0,0,0,1,Calcium Deficiency
+0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,Magnesium Deficiency
+0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,Vitamin K Deficiency
+0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,Vitamin K Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,Vitamin B12 Deficiency
+1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,0,0,0,0,0,0,1,1,0,0,0,0,1,1,Magnesium Deficiency
+0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,Vitamin A Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin C Deficiency
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,Vitamin D Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Vitamin A Deficiency
+0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,1,0,1,0,0,0,0,0,0,1,0,0,0,0,Vitamin D Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,Vitamin K Deficiency
+0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,1,0,0,0,1,1,1,0,0,Folate B9 Deficiency
+0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,1,0,1,0,0,1,0,0,0,0,0,0,0,1,Vitamin D Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Vitamin A Deficiency
+1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,Folate B9 Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,Vitamin B12 Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+1,0,1,1,0,0,0,1,0,0,0,0,0,0,1,Vitamin D Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Healthy
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,Folate B9 Deficiency
+0,1,0,0,0,0,0,0,1,0,0,0,1,0,0,Folate B9 Deficiency
+1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,Calcium Deficiency
+1,1,0,0,0,0,0,0,1,0,1,0,1,0,0,Folate B9 Deficiency
+1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,Iron Deficiency
+0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,0,0,0,0,1,1,0,0,0,1,0,0,Magnesium Deficiency
+1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Healthy
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Magnesium Deficiency
+0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,Calcium Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,Vitamin K Deficiency
+0,1,1,1,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,1,0,0,1,0,0,1,0,1,0,0,0,Vitamin K Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,Calcium Deficiency
+0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Folate B9 Deficiency
+1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,Iron Deficiency
+0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Healthy
+1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,Vitamin B12 Deficiency
+0,0,0,1,0,0,0,1,0,0,1,0,0,0,1,Calcium Deficiency
+0,0,1,1,0,0,1,0,1,0,0,1,0,1,0,Vitamin K Deficiency
+0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,Magnesium Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,0,0,0,1,1,0,0,1,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,1,0,0,0,0,1,0,0,0,0,1,1,1,0,Vitamin K Deficiency
+0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,Vitamin C Deficiency
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,Calcium Deficiency
+1,0,0,0,0,1,0,0,1,0,0,0,1,0,0,Folate B9 Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Iron Deficiency
+1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,Folate B9 Deficiency
+0,0,1,0,0,1,1,0,0,0,0,1,0,0,1,Vitamin C Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Magnesium Deficiency
+0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,Iron Deficiency
+1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,Vitamin D Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,Healthy
+0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,0,0,1,0,0,1,0,0,0,0,0,0,1,1,Vitamin D Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,0,0,0,0,1,1,0,0,0,0,0,1,0,0,Vitamin C Deficiency
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Healthy
+1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,1,0,1,0,0,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Healthy
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,Magnesium Deficiency
+1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,0,0,0,0,0,0,1,0,1,0,1,0,0,1,Magnesium Deficiency
+1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,Folate B9 Deficiency
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,Vitamin D Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,1,0,1,0,0,0,0,Folate B9 Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,Vitamin C Deficiency
+1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,0,1,1,0,0,0,0,0,0,1,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,Vitamin C Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,1,0,1,1,1,0,0,1,0,0,1,0,1,Vitamin A Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,Vitamin K Deficiency
+0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,Calcium Deficiency
+1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,Iron Deficiency
+0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,Vitamin K Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,Vitamin A Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,Vitamin B6 Deficiency
+0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,Magnesium Deficiency
+0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,Calcium Deficiency
+1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,Iron Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,Folate B9 Deficiency
+1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,Magnesium Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Healthy
+1,0,1,1,0,0,0,1,0,0,1,0,0,0,0,Calcium Deficiency
+1,0,0,0,1,1,1,0,0,0,0,0,1,0,0,Vitamin C Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,Healthy
+1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,1,0,0,0,0,1,0,1,0,0,0,0,0,0,Healthy
+1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,Vitamin D Deficiency
+1,1,0,1,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,Iron Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,Calcium Deficiency
+0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,0,0,1,0,1,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,1,0,0,0,0,0,0,1,0,1,0,1,0,1,Folate B9 Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Folate B9 Deficiency
+0,0,1,1,0,0,0,1,1,1,0,0,0,0,0,Calcium Deficiency
+1,0,0,0,0,0,0,1,1,1,0,1,0,0,0,Magnesium Deficiency
+1,0,1,0,0,0,0,0,1,0,0,1,0,0,0,Iron Deficiency
+1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Healthy
+0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,Calcium Deficiency
+0,0,0,1,0,0,1,0,0,1,0,1,0,0,0,Vitamin K Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,Vitamin K Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,1,0,1,0,1,0,0,0,0,0,0,1,0,1,Folate B9 Deficiency
+1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,Magnesium Deficiency
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,0,0,0,1,0,0,1,0,1,0,Vitamin K Deficiency
+0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Magnesium Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Vitamin K Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,Vitamin C Deficiency
+1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Magnesium Deficiency
+0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,Vitamin C Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Iron Deficiency
+1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,Iron Deficiency
+1,0,0,1,0,0,0,1,0,0,1,0,0,0,1,Vitamin D Deficiency
+1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,Vitamin D Deficiency
+1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,Magnesium Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Vitamin A Deficiency
+1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,0,1,1,0,0,0,0,0,0,1,0,0,Iron Deficiency
+1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Healthy
+0,1,0,1,0,0,1,0,0,0,0,1,0,1,0,Vitamin K Deficiency
+0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,Vitamin K Deficiency
+1,1,0,1,0,0,0,0,0,0,0,0,1,0,0,Iron Deficiency
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,Vitamin C Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,Vitamin A Deficiency
+0,0,1,0,1,0,0,0,0,1,0,0,1,0,0,Vitamin A Deficiency
+1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,Folate B9 Deficiency
+1,0,1,1,0,0,0,1,0,0,0,0,0,0,1,Vitamin D Deficiency
+0,1,1,1,1,0,0,0,1,0,0,0,0,0,0,Calcium Deficiency
+0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,Vitamin B12 Deficiency
+0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,Vitamin D Deficiency
+1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,Calcium Deficiency
+1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,Magnesium Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Folate B9 Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,0,1,1,0,1,0,1,0,1,0,1,1,0,0,Calcium Deficiency
+0,0,0,1,0,1,1,0,0,0,1,0,0,0,0,Vitamin C Deficiency
+0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,Magnesium Deficiency
+1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,Iron Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,Iron Deficiency
+0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,Vitamin A Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin K Deficiency
+0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,Magnesium Deficiency
+0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,Vitamin C Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,Vitamin K Deficiency
+1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Vitamin A Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,Vitamin K Deficiency
+0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,Vitamin C Deficiency
+1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,Calcium Deficiency
+0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,Magnesium Deficiency
+1,0,1,0,0,0,0,1,0,1,0,0,0,0,1,Magnesium Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,Vitamin K Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,Vitamin D Deficiency
+0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,Magnesium Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Vitamin A Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,Vitamin K Deficiency
+1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,Magnesium Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,Folate B9 Deficiency
+1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,Folate B9 Deficiency
+1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,Magnesium Deficiency
+0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Healthy
+0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,Magnesium Deficiency
+1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,Vitamin D Deficiency
+1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,Vitamin D Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,0,1,0,1,0,0,0,1,0,0,0,1,0,0,Vitamin A Deficiency
+0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,Folate B9 Deficiency
+0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,Magnesium Deficiency
+1,1,1,0,0,1,0,0,0,0,0,1,0,0,0,Iron Deficiency
+1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Vitamin A Deficiency
+0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,Vitamin B6 Deficiency
+0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Folate B9 Deficiency
+1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,Iron Deficiency
+1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,1,1,0,1,0,1,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Iron Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+1,1,1,0,0,0,1,0,0,1,0,0,0,0,0,Vitamin A Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Iron Deficiency
+0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,Iron Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,0,1,1,0,0,0,1,0,0,0,0,0,0,1,Vitamin D Deficiency
+1,0,1,0,1,1,0,0,0,0,0,0,0,0,1,Vitamin A Deficiency
+0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,Vitamin C Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,Iron Deficiency
+1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,Vitamin C Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,0,1,0,0,0,1,0,1,1,1,0,0,0,Calcium Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+0,1,1,0,0,1,0,0,1,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,Iron Deficiency
+1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,Magnesium Deficiency
+0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,Calcium Deficiency
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,1,0,0,1,1,0,1,1,0,0,0,0,0,Vitamin C Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Healthy
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,1,0,0,0,1,0,1,1,0,0,0,1,Calcium Deficiency
+1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,Vitamin A Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Magnesium Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,1,1,0,0,1,0,1,0,0,0,Vitamin C Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Vitamin D Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Magnesium Deficiency
+1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,1,1,0,0,0,1,0,0,0,1,0,0,0,Vitamin D Deficiency
+0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,Vitamin A Deficiency
+1,1,0,0,0,1,1,0,0,0,0,1,0,0,1,Vitamin B12 Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,0,0,0,0,0,1,0,1,0,0,0,1,1,Magnesium Deficiency
+1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,Magnesium Deficiency
+1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Vitamin A Deficiency
+1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,Vitamin C Deficiency
+1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,Vitamin D Deficiency
+0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,0,0,1,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,Iron Deficiency
+0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,Healthy
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,Vitamin D Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+1,1,0,0,0,0,0,0,1,0,0,1,1,0,0,Folate B9 Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Folate B9 Deficiency
+0,0,0,0,0,1,1,0,0,1,1,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Vitamin D Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,Vitamin C Deficiency
+0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,0,1,0,0,0,1,0,1,1,0,1,0,0,Calcium Deficiency
+0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,Folate B9 Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,Vitamin C Deficiency
+0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,Vitamin A Deficiency
+0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,Vitamin C Deficiency
+1,0,0,0,0,0,1,1,1,0,0,0,0,0,0,Magnesium Deficiency
+1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,Folate B9 Deficiency
+0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,Calcium Deficiency
+1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,Folate B9 Deficiency
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,Magnesium Deficiency
+0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,1,0,1,0,0,0,1,0,1,0,0,0,0,0,Calcium Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,1,0,1,Magnesium Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+1,0,1,1,0,0,0,0,0,0,0,1,0,0,0,Vitamin D Deficiency
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,0,0,0,0,1,1,0,0,1,0,0,1,Magnesium Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,1,0,0,0,1,1,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,Folate B9 Deficiency
+0,0,1,1,0,0,0,0,0,0,1,0,0,0,0,Calcium Deficiency
+0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,Calcium Deficiency
+0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,0,1,0,0,0,0,1,0,0,0,0,0,0,1,Magnesium Deficiency
+1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,Magnesium Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,1,1,0,1,0,0,0,1,0,0,0,0,0,0,Vitamin A Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Vitamin A Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,Vitamin A Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Vitamin D Deficiency
+1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,Iron Deficiency
+1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,Magnesium Deficiency
+0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+0,0,1,0,0,1,1,0,0,1,0,0,1,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Healthy
+0,1,0,1,0,0,0,1,0,0,1,0,0,0,0,Calcium Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,1,0,1,0,0,0,1,0,0,0,0,1,0,Vitamin A Deficiency
+0,1,0,1,0,0,0,1,1,0,1,0,0,0,0,Calcium Deficiency
+1,0,1,0,1,0,0,0,0,0,0,0,0,1,0,Vitamin A Deficiency
+1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin C Deficiency
+0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,Vitamin D Deficiency
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Healthy
+1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Vitamin D Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,1,1,1,1,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+0,0,1,0,0,1,0,0,0,1,1,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,Vitamin K Deficiency
+1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Vitamin C Deficiency
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Magnesium Deficiency
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Vitamin D Deficiency
+1,0,0,1,0,1,1,1,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,Iron Deficiency
+0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,1,0,1,1,0,1,1,0,0,0,1,0,Vitamin B6 Deficiency
+1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Magnesium Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,Vitamin K Deficiency
+0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,Vitamin A Deficiency
+1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,Vitamin D Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Folate B9 Deficiency
+0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,Magnesium Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Iron Deficiency
+1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,Iron Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,Vitamin B12 Deficiency
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,0,0,1,1,1,0,0,0,1,0,0,0,Vitamin C Deficiency
+1,1,0,0,0,0,1,0,0,0,0,1,1,0,1,Folate B9 Deficiency
+0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Vitamin A Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,Magnesium Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,Magnesium Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,1,0,0,Vitamin K Deficiency
+0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,1,1,0,0,0,1,0,0,0,Vitamin C Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Vitamin A Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Iron Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,1,1,0,0,0,1,0,0,1,0,0,0,1,Calcium Deficiency
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Healthy
+1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,1,0,1,0,0,0,1,0,0,0,0,0,1,Vitamin A Deficiency
+1,0,0,0,1,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,Iron Deficiency
+0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,Vitamin B6 Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Folate B9 Deficiency
+0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,Vitamin A Deficiency
+1,0,1,0,0,0,0,1,1,0,0,0,0,0,0,Magnesium Deficiency
+0,0,0,1,0,0,1,0,0,0,1,0,0,0,0,Vitamin K Deficiency
+0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,1,1,0,0,1,0,0,0,0,0,0,0,0,1,Iron Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,Vitamin K Deficiency
+1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Vitamin D Deficiency
+1,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,Folate B9 Deficiency
+1,1,0,0,0,0,0,1,0,0,0,1,0,0,0,Iron Deficiency
+0,0,1,1,0,0,0,1,0,1,1,0,0,0,0,Calcium Deficiency
+0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,Iron Deficiency
+1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,Folate B9 Deficiency
+1,0,1,1,0,1,0,1,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,Folate B9 Deficiency
+0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Healthy
+1,1,0,1,0,0,0,0,1,0,0,0,1,1,0,Iron Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,Vitamin C Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Vitamin D Deficiency
+1,0,1,1,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+0,0,1,0,1,0,0,1,0,0,0,0,1,0,0,Vitamin A Deficiency
+1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Vitamin C Deficiency
+0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,Vitamin D Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,Vitamin C Deficiency
+1,1,0,0,0,0,0,1,0,0,0,0,1,0,0,Iron Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,1,1,0,1,1,0,0,0,0,0,1,0,0,Vitamin C Deficiency
+1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Folate B9 Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,Vitamin A Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Iron Deficiency
+0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,Vitamin C Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,Magnesium Deficiency
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Folate B9 Deficiency
+0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Vitamin K Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,1,0,0,1,0,0,0,1,1,1,0,0,Vitamin K Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,0,1,0,1,0,1,0,0,0,0,1,0,0,0,Vitamin A Deficiency
+1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,Iron Deficiency
+0,0,1,0,1,1,0,1,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Magnesium Deficiency
+1,0,0,0,0,0,0,1,0,1,0,1,0,0,1,Magnesium Deficiency
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Healthy
+0,1,1,1,0,0,0,1,0,0,1,1,0,0,0,Calcium Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,1,0,0,0,0,0,0,1,0,0,1,0,0,Folate B9 Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Iron Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,Iron Deficiency
+1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Vitamin D Deficiency
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,0,0,0,1,0,0,1,0,0,1,0,0,0,Vitamin C Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Magnesium Deficiency
+0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,Vitamin B6 Deficiency
+1,1,0,0,0,0,0,1,0,0,0,0,0,1,0,Iron Deficiency
+1,0,0,0,1,0,0,1,1,1,0,0,0,0,0,Magnesium Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,Vitamin D Deficiency
+1,0,0,0,0,0,1,0,1,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Vitamin B6 Deficiency
+0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,Calcium Deficiency
+0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,Iron Deficiency
+0,0,1,0,1,0,0,0,0,1,0,0,1,0,0,Vitamin A Deficiency
+0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,Vitamin K Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Vitamin K Deficiency
+0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,0,1,0,0,1,0,0,0,0,1,0,0,1,Vitamin K Deficiency
+1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,Vitamin A Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,0,1,0,0,0,0,1,0,1,0,0,0,0,0,Magnesium Deficiency
+0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,1,0,1,1,0,0,0,0,0,0,0,0,1,Vitamin C Deficiency
+1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+1,0,0,0,0,0,0,1,0,0,0,1,1,0,1,Magnesium Deficiency
+1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,1,0,0,0,1,0,0,1,0,0,0,0,Calcium Deficiency
+0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,Calcium Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,0,0,1,1,1,0,0,0,1,0,1,0,Vitamin C Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Magnesium Deficiency
+0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Iron Deficiency
+0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Vitamin D Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Vitamin D Deficiency
+1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Folate B9 Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Healthy
+0,1,1,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin C Deficiency
+0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,Vitamin D Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Healthy
+0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Vitamin B6 Deficiency
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,1,1,Vitamin K Deficiency
+0,0,0,0,0,1,0,0,1,1,1,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Iron Deficiency
+0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,Vitamin D Deficiency
+1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Vitamin B6 Deficiency
+1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B12 Deficiency
+0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Magnesium Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,Calcium Deficiency
+0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,Vitamin A Deficiency
+1,0,1,0,0,1,0,0,0,0,0,0,1,0,0,Iron Deficiency
+1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,Folate B9 Deficiency
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Healthy
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,0,0,0,1,1,0,0,0,0,1,0,1,0,Vitamin C Deficiency
+0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,Calcium Deficiency
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Vitamin D Deficiency
+0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,Vitamin D Deficiency
+1,0,0,0,0,1,0,1,1,1,0,0,0,0,0,Magnesium Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,1,0,0,0,0,0,0,1,0,1,Iron Deficiency
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Iron Deficiency
+0,1,0,0,0,1,0,1,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,1,0,1,Iron Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,Iron Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,Vitamin K Deficiency
+1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,1,1,0,0,0,1,0,1,0,0,0,0,0,Calcium Deficiency
+1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,Vitamin A Deficiency
+0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Folate B9 Deficiency
+0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,Calcium Deficiency
+1,1,0,0,1,1,0,0,0,0,0,0,0,0,1,Folate B9 Deficiency
+0,1,0,0,0,0,0,0,0,1,0,1,0,1,0,Vitamin K Deficiency
+0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,Vitamin B6 Deficiency
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,Healthy
+0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,Calcium Deficiency
+1,1,0,0,0,0,0,0,0,0,0,1,1,0,0,Iron Deficiency
+0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,Healthy
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Vitamin A Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,0,0,0,0,1,0,1,Folate B9 Deficiency
+1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,Vitamin D Deficiency
+0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,Magnesium Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Magnesium Deficiency
+0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,Calcium Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,Magnesium Deficiency
+0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,Magnesium Deficiency
+1,1,0,0,0,0,0,1,0,0,0,0,0,0,1,Folate B9 Deficiency
+1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Magnesium Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Vitamin D Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,Vitamin D Deficiency
+1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,Magnesium Deficiency
+1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Folate B9 Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,0,0,1,0,0,0,0,0,1,0,0,0,Vitamin B12 Deficiency
+0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,Calcium Deficiency
+0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,Calcium Deficiency
+0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Healthy
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,1,0,1,0,1,0,0,1,0,0,0,0,0,0,Folate B9 Deficiency
+1,0,0,1,0,0,0,1,0,0,0,0,1,0,1,Vitamin D Deficiency
+1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,0,1,1,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,Vitamin K Deficiency
+0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,Vitamin C Deficiency
+1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Vitamin A Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,Vitamin K Deficiency
+0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,Vitamin D Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,1,1,0,0,0,1,0,1,0,0,1,0,0,Calcium Deficiency
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Folate B9 Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,Healthy
+1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,Calcium Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,0,0,0,0,0,1,0,0,0,0,1,0,1,1,Vitamin K Deficiency
+1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,Folate B9 Deficiency
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Healthy
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Magnesium Deficiency
+0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,Vitamin K Deficiency
+1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,Healthy
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Healthy
+0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,Vitamin D Deficiency
+0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,Calcium Deficiency
+0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,1,0,0,0,1,0,1,0,0,1,0,0,Calcium Deficiency
+0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Healthy
+1,0,1,0,0,1,0,1,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,Vitamin K Deficiency
+0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,Vitamin C Deficiency
+0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Vitamin A Deficiency
+0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,Vitamin B12 Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Healthy
+1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Healthy
+0,1,1,0,0,1,0,0,1,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Vitamin A Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,1,1,0,Vitamin C Deficiency
+1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,Vitamin D Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin B6 Deficiency
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Folate B9 Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Magnesium Deficiency
+0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,Magnesium Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Magnesium Deficiency
+0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,Vitamin D Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,Calcium Deficiency
+1,0,0,0,0,1,1,0,0,0,0,0,0,0,1,Vitamin C Deficiency
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+0,1,0,0,0,0,1,0,0,0,0,0,1,1,0,Folate B9 Deficiency
+1,0,1,1,0,0,0,1,0,0,0,0,0,0,1,Vitamin D Deficiency
+0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,Vitamin C Deficiency
+0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,Vitamin B6 Deficiency
+1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,Vitamin B6 Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,1,0,0,0,1,0,0,0,0,1,1,0,1,0,Vitamin C Deficiency
+1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Magnesium Deficiency
+0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,Vitamin D Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Magnesium Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,Vitamin D Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,1,1,1,1,1,0,0,0,0,0,0,0,Calcium Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,1,0,0,0,1,0,0,0,0,1,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,1,0,0,1,0,0,1,0,0,0,1,0,Vitamin K Deficiency
+1,0,0,0,0,1,1,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,Iron Deficiency
+1,0,0,0,0,0,0,1,0,0,0,1,0,0,1,Magnesium Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,Vitamin K Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,Vitamin A Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,Vitamin K Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,Vitamin A Deficiency
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Healthy
+0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,Magnesium Deficiency
+0,1,1,0,1,0,0,0,0,0,0,0,1,0,0,Vitamin A Deficiency
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,0,0,0,0,1,0,0,1,0,1,0,0,0,Vitamin K Deficiency
+1,0,1,1,0,0,0,1,0,0,1,0,0,0,0,Calcium Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Vitamin D Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Magnesium Deficiency
+0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,Iron Deficiency
+0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,0,0,0,0,0,0,1,1,0,1,0,0,0,1,Magnesium Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,0,1,0,0,1,0,0,1,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,Folate B9 Deficiency
+0,0,0,0,0,1,1,0,0,1,0,1,0,0,0,Vitamin C Deficiency
+1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,Healthy
+0,0,0,1,0,0,0,1,1,0,1,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Vitamin D Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+1,0,1,1,0,0,0,1,0,0,0,0,0,0,1,Vitamin D Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Folate B9 Deficiency
+1,0,1,0,1,0,0,0,0,0,0,0,1,0,1,Vitamin A Deficiency
+0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,0,0,1,0,0,0,1,0,1,0,0,0,0,0,Vitamin D Deficiency
+0,0,1,1,0,0,0,1,1,1,0,0,0,0,0,Calcium Deficiency
+0,0,0,1,0,1,1,0,0,0,0,1,1,0,0,Vitamin C Deficiency
+0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,0,0,1,1,0,0,0,0,0,1,0,1,Vitamin B12 Deficiency
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,1,0,1,0,0,0,0,1,0,0,0,0,0,Vitamin A Deficiency
+1,0,0,0,0,1,0,0,0,1,0,0,0,0,1,Vitamin B12 Deficiency
+0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Vitamin D Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Vitamin B12 Deficiency
+1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Vitamin D Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,Vitamin C Deficiency
+1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,Vitamin D Deficiency
+0,0,0,0,0,0,1,0,0,1,0,1,0,1,0,Vitamin K Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,Healthy
+1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Vitamin B12 Deficiency
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,0,1,0,0,1,0,0,1,0,0,0,1,Magnesium Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,1,0,1,0,1,0,1,0,0,0,0,0,Magnesium Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,0,1,1,1,0,0,1,0,0,0,0,0,0,0,Vitamin D Deficiency
+1,0,0,0,0,0,1,1,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,0,0,0,0,1,1,0,0,0,1,0,1,0,Vitamin K Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,Calcium Deficiency
+1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,Vitamin K Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,Vitamin K Deficiency
+0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,0,0,1,0,0,1,1,0,0,1,0,0,Vitamin B6 Deficiency
+1,1,0,0,0,1,0,0,0,1,1,0,0,0,0,Vitamin B12 Deficiency
+1,1,0,1,0,0,0,1,0,0,0,0,0,0,1,Vitamin D Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,Vitamin B12 Deficiency
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,Magnesium Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,0,1,1,0,0,0,0,0,0,0,0,0,1,0,Calcium Deficiency
+1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,0,1,1,0,0,0,1,0,0,1,Vitamin K Deficiency
+1,1,1,1,0,0,0,0,0,0,0,0,0,0,1,Iron Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,Vitamin B12 Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,1,0,1,0,0,1,0,0,0,1,0,1,0,Vitamin A Deficiency
+0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,Iron Deficiency
+0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Healthy
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,0,1,0,0,0,0,0,0,0,1,0,0,1,Vitamin D Deficiency
+1,1,1,0,0,0,0,0,0,0,0,1,1,0,0,Iron Deficiency
+1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,1,0,0,0,0,1,0,1,0,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,Magnesium Deficiency
+1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,Iron Deficiency
+1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Magnesium Deficiency
+1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Vitamin B12 Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,Vitamin C Deficiency
+0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Healthy
+0,0,1,1,1,0,0,1,0,1,0,0,0,0,0,Calcium Deficiency
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Folate B9 Deficiency
+1,1,1,0,0,0,0,0,0,1,1,0,1,0,0,Iron Deficiency
+0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,0,1,1,1,0,0,0,0,0,0,0,1,0,0,Vitamin D Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Healthy
+1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Healthy
+0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Vitamin B6 Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Iron Deficiency
+0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,Vitamin C Deficiency
+1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,Vitamin D Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,Calcium Deficiency
+0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,Vitamin A Deficiency
+1,1,1,1,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,1,1,0,1,0,1,0,0,1,0,0,0,0,Calcium Deficiency
+0,0,1,0,0,1,0,0,1,0,0,1,0,0,0,Vitamin C Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Folate B9 Deficiency
+1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,Magnesium Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Vitamin A Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Vitamin A Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Magnesium Deficiency
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,Vitamin A Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,1,0,1,0,0,0,1,0,0,1,0,0,Vitamin B6 Deficiency
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,1,0,0,0,0,1,0,0,0,0,1,0,1,0,Vitamin K Deficiency
+0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,Vitamin D Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,Vitamin C Deficiency
+0,1,0,1,0,1,0,1,0,0,1,0,0,0,0,Calcium Deficiency
+1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Folate B9 Deficiency
+1,1,0,0,0,0,0,0,0,1,0,0,0,0,1,Magnesium Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Vitamin A Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,Vitamin K Deficiency
+1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,Iron Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Calcium Deficiency
+0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,Folate B9 Deficiency
+0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,Calcium Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Folate B9 Deficiency
+0,0,0,0,0,0,1,0,0,0,1,1,0,1,0,Vitamin K Deficiency
+1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,Iron Deficiency
+0,0,1,0,1,0,0,0,0,1,0,0,0,0,1,Vitamin A Deficiency
+0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,Vitamin C Deficiency
+1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,Folate B9 Deficiency
+0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,Calcium Deficiency
+1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Vitamin A Deficiency
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,0,1,0,0,1,0,1,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,1,0,1,0,0,0,0,0,0,1,0,0,0,Vitamin A Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,0,0,0,0,1,0,0,0,1,0,0,0,1,0,Vitamin B6 Deficiency
+1,1,1,0,0,0,0,0,0,1,1,0,0,0,0,Iron Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,Healthy
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Calcium Deficiency
+1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,1,0,0,0,0,1,0,0,0,0,0,1,0,0,Iron Deficiency
+0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,Iron Deficiency
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Folate B9 Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+1,0,1,1,0,0,0,1,0,0,0,0,0,0,1,Vitamin D Deficiency
+1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,Vitamin D Deficiency
+1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+1,0,0,0,1,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,Vitamin K Deficiency
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Vitamin C Deficiency
+0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,Calcium Deficiency
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,Vitamin K Deficiency
+1,1,0,0,0,0,0,1,0,0,0,0,0,1,1,Magnesium Deficiency
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,0,0,0,1,1,0,0,1,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,1,0,0,0,1,0,0,0,0,0,1,0,0,0,Folate B9 Deficiency
+1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,Iron Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,1,0,Folate B9 Deficiency
+1,0,1,1,0,0,0,0,0,1,0,0,0,0,1,Vitamin D Deficiency
+1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,Magnesium Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,0,0,0,0,0,0,0,1,0,0,0,1,0,0,Folate B9 Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Healthy
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,Vitamin B6 Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,1,Folate B9 Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Healthy
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,Vitamin C Deficiency
+0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Iron Deficiency
+1,1,1,0,0,1,0,0,0,1,0,0,1,0,0,Iron Deficiency
+0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,Iron Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,1,0,0,1,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,Folate B9 Deficiency
+1,1,1,0,0,0,0,0,0,0,1,0,0,0,0,Iron Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,0,0,1,0,0,0,1,0,0,1,0,0,1,0,Calcium Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,1,0,0,Iron Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+1,0,0,0,0,0,0,1,0,1,0,0,0,0,1,Magnesium Deficiency
+0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,0,0,1,1,0,0,0,0,1,0,0,0,Vitamin C Deficiency
+1,0,0,0,1,0,0,0,0,1,1,0,1,0,0,Vitamin A Deficiency
+0,0,1,0,0,1,0,0,1,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,1,1,0,0,0,0,1,0,0,0,0,0,0,Folate B9 Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+1,0,1,1,0,0,0,0,0,0,0,0,0,0,1,Vitamin D Deficiency
+0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,Vitamin K Deficiency
+0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,Magnesium Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B6 Deficiency
+0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Magnesium Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Vitamin A Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Healthy
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,Calcium Deficiency
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Vitamin A Deficiency
+1,1,0,0,0,1,0,0,0,1,0,0,0,1,0,Folate B9 Deficiency
+1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,1,0,0,1,0,0,0,0,1,1,0,0,Vitamin K Deficiency
+1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,Vitamin D Deficiency
+1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,0,1,0,1,1,1,0,0,0,0,0,0,0,1,Vitamin C Deficiency
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Folate B9 Deficiency
+0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,Magnesium Deficiency
+1,1,0,0,0,1,0,0,1,0,0,0,1,0,0,Folate B9 Deficiency
+0,1,0,1,0,0,0,0,1,0,0,0,0,0,0,Healthy
+0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+1,1,0,0,0,1,0,0,0,0,0,1,1,0,0,Iron Deficiency
+1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,Vitamin A Deficiency
+1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,Magnesium Deficiency
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+1,1,1,0,0,1,0,0,0,1,0,0,1,0,0,Iron Deficiency
+1,0,0,0,0,0,0,1,1,0,0,1,0,0,0,Magnesium Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,0,1,0,0,0,1,0,0,1,0,0,1,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,Magnesium Deficiency
+1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,1,0,1,0,0,0,1,0,1,0,1,0,0,Vitamin A Deficiency
+1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+0,0,0,0,0,0,1,1,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,Calcium Deficiency
+0,1,1,0,0,1,1,0,0,1,0,0,0,1,0,Vitamin C Deficiency
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,Vitamin B6 Deficiency
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Healthy
+1,0,0,0,0,0,0,1,1,1,0,1,0,0,1,Magnesium Deficiency
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B12 Deficiency
+1,1,0,0,0,0,0,0,1,0,0,0,1,0,0,Folate B9 Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+1,1,0,1,0,1,0,1,0,0,0,0,0,0,0,Vitamin D Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Healthy
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Healthy
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,Vitamin K Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,Magnesium Deficiency
+1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,Vitamin D Deficiency
+0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Vitamin A Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,Folate B9 Deficiency
+0,1,0,0,1,1,0,0,0,0,0,0,0,0,1,Iron Deficiency
+0,0,0,1,1,0,0,0,1,0,0,0,0,0,1,Healthy
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Vitamin D Deficiency
+1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,Vitamin K Deficiency
+1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Vitamin A Deficiency
+0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,1,0,0,Magnesium Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,Iron Deficiency
+0,0,0,1,1,1,0,0,0,0,0,0,0,0,1,Vitamin D Deficiency
+1,1,1,0,0,1,0,0,0,1,0,0,1,0,0,Iron Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,0,0,0,0,1,0,0,0,0,0,1,1,0,0,Vitamin B12 Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+1,0,1,0,1,0,0,1,0,0,0,0,0,0,1,Vitamin D Deficiency
+0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,Vitamin K Deficiency
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Calcium Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,1,0,0,1,0,0,0,1,0,0,0,1,0,0,Folate B9 Deficiency
+0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+1,0,0,0,0,1,0,1,0,1,0,0,0,0,1,Magnesium Deficiency
+0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,Calcium Deficiency
+1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,Magnesium Deficiency
+0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+1,1,0,0,0,0,0,1,0,1,0,0,0,0,0,Magnesium Deficiency
+1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Calcium Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Folate B9 Deficiency
+0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Calcium Deficiency
+1,0,0,0,0,1,1,0,0,0,0,1,0,0,0,Vitamin C Deficiency
+0,0,0,0,0,0,1,0,0,1,0,1,0,0,1,Vitamin K Deficiency
+0,1,0,0,0,1,0,0,0,0,0,0,0,0,1,Folate B9 Deficiency
+1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Folate B9 Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,0,1,0,1,0,0,0,0,0,0,1,0,0,0,Vitamin A Deficiency
+1,0,0,0,0,0,0,1,1,1,0,0,0,0,1,Magnesium Deficiency
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Calcium Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,0,1,0,0,1,0,0,Folate B9 Deficiency
+1,0,0,0,0,0,0,1,1,0,0,1,0,0,1,Magnesium Deficiency
+0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,Magnesium Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,Magnesium Deficiency
+0,1,1,0,0,1,0,1,0,0,0,1,1,0,0,Iron Deficiency
+0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,Vitamin K Deficiency
+0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+1,1,0,0,0,1,0,0,0,1,0,0,1,0,0,Vitamin B12 Deficiency
+0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,Vitamin C Deficiency
+1,0,1,0,1,0,0,0,0,0,0,1,1,1,0,Vitamin A Deficiency
+0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,Healthy
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,Vitamin C Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Calcium Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Vitamin A Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,1,1,0,0,1,0,0,0,0,0,0,1,0,0,Iron Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,Healthy
+0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,Magnesium Deficiency
+0,0,1,0,0,1,0,0,0,1,0,0,1,0,0,Vitamin C Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,Magnesium Deficiency
+1,1,1,0,1,1,0,0,0,1,0,0,0,0,0,Vitamin B12 Deficiency
+1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,Iron Deficiency
+1,0,0,1,0,0,0,1,0,1,1,0,0,0,0,Magnesium Deficiency
+1,0,1,1,1,0,1,1,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Iron Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,Iron Deficiency
+0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,1,0,1,0,0,0,0,0,0,0,0,0,0,1,Vitamin D Deficiency
+1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,Magnesium Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,Vitamin K Deficiency
+0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,Vitamin K Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,0,1,0,0,0,1,0,1,0,0,0,0,0,Calcium Deficiency
+0,0,1,1,0,0,0,1,1,1,1,1,0,0,0,Calcium Deficiency
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+0,0,1,1,0,0,0,1,0,0,1,0,0,0,0,Calcium Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,Folate B9 Deficiency
+0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,1,0,0,0,1,1,1,1,0,0,1,0,1,Magnesium Deficiency
+1,0,1,0,1,0,0,0,0,0,0,0,0,0,1,Vitamin A Deficiency
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,1,0,0,0,1,0,0,1,1,0,0,1,0,0,Folate B9 Deficiency
+0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,Vitamin K Deficiency
+0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,Vitamin D Deficiency
+1,0,0,1,0,1,0,0,0,0,0,1,0,0,0,Vitamin D Deficiency
+0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,Vitamin C Deficiency
+0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,Magnesium Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,1,0,Vitamin K Deficiency
+0,0,1,1,0,0,0,0,0,1,0,0,0,0,0,Calcium Deficiency
+1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,1,0,0,0,0,0,0,0,1,0,1,0,Vitamin K Deficiency
+1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,Magnesium Deficiency
+1,1,0,0,0,1,0,0,1,0,0,0,1,0,1,Folate B9 Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,0,1,0,0,0,0,0,1,0,0,0,0,0,1,Iron Deficiency
+1,0,0,0,0,1,0,0,1,1,0,0,1,0,0,Vitamin B6 Deficiency
+1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,Folate B9 Deficiency
+1,1,0,0,0,1,0,0,1,0,0,0,0,1,0,Folate B9 Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,Calcium Deficiency
+1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,1,Vitamin C Deficiency
+0,1,0,0,1,0,0,0,1,0,0,0,0,0,0,Iron Deficiency
+0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+0,0,0,1,0,0,0,1,0,0,0,1,0,0,0,Calcium Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Calcium Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,1,0,0,1,1,1,0,1,0,0,0,1,0,Vitamin C Deficiency
+0,0,0,0,1,0,0,0,1,0,0,1,0,0,0,Vitamin A Deficiency
+0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Healthy
+1,0,0,1,0,1,0,0,0,0,0,0,1,0,1,Vitamin D Deficiency
+0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,Vitamin D Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,Healthy
+0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Healthy
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,Magnesium Deficiency
+1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,Vitamin D Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,Iron Deficiency
+0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Calcium Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,Healthy
+1,0,0,0,0,0,0,1,0,1,1,0,0,0,0,Magnesium Deficiency
+1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,1,1,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin C Deficiency
+0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,0,1,0,0,0,0,1,1,1,0,0,1,0,0,Magnesium Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+0,0,0,0,1,1,0,1,1,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,Iron Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,0,1,0,0,1,0,0,0,0,1,1,1,0,Vitamin K Deficiency
+0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,Vitamin C Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,Folate B9 Deficiency
+0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,Calcium Deficiency
+0,0,0,1,0,0,0,1,0,0,1,0,0,0,0,Calcium Deficiency
+1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,Vitamin D Deficiency
+1,0,0,0,0,0,1,0,0,0,0,1,0,1,0,Vitamin K Deficiency
+1,1,0,0,1,0,0,0,0,0,0,0,1,0,0,Folate B9 Deficiency
+0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Healthy
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,0,1,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,Folate B9 Deficiency
+1,1,0,0,0,0,0,0,0,0,1,0,1,0,0,Iron Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,Vitamin K Deficiency
+1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,1,0,0,0,0,0,1,0,1,0,0,0,1,0,Vitamin B12 Deficiency
+0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,0,1,0,1,0,0,1,0,0,0,0,1,0,0,Vitamin A Deficiency
+1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,0,0,1,0,0,1,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,Magnesium Deficiency
+1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,0,1,1,0,0,1,1,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,Healthy
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,Magnesium Deficiency
+1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,Calcium Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,1,Vitamin K Deficiency
+1,0,0,0,1,1,0,0,0,1,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Magnesium Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+1,0,1,0,0,1,0,0,1,1,0,0,0,0,0,Folate B9 Deficiency
+1,0,0,1,0,0,0,1,0,0,0,0,0,0,1,Vitamin D Deficiency
+1,0,1,0,0,0,0,1,0,0,0,0,0,0,0,Vitamin D Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Vitamin A Deficiency
+1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,0,0,0,0,0,0,1,0,1,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,Vitamin B6 Deficiency
+0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,Vitamin C Deficiency
+1,0,0,0,0,1,0,0,0,0,0,1,0,1,0,Vitamin B12 Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,Healthy
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,1,0,0,1,1,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,Magnesium Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Magnesium Deficiency
+0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,Vitamin K Deficiency
+0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,Vitamin B6 Deficiency
+1,1,0,0,0,1,1,0,1,0,1,0,0,0,0,Folate B9 Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Magnesium Deficiency
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin K Deficiency
+0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+0,0,0,1,0,0,1,0,0,0,0,1,0,1,0,Vitamin K Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,Iron Deficiency
+1,1,0,0,0,1,0,0,1,0,0,0,0,0,0,Folate B9 Deficiency
+1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,Iron Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,Vitamin D Deficiency
+0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,Vitamin A Deficiency
+1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,Iron Deficiency
+1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,Vitamin D Deficiency
+1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,Magnesium Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,Iron Deficiency
+0,0,1,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+0,0,1,0,0,0,1,0,0,1,0,1,0,1,0,Vitamin K Deficiency
+0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Healthy
+1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Folate B9 Deficiency
+0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,1,0,0,0,1,0,0,0,0,0,1,0,0,Vitamin A Deficiency
+1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,0,0,1,0,0,1,1,0,0,0,0,0,0,1,Vitamin D Deficiency
+1,0,1,0,1,0,0,0,0,0,0,0,1,0,0,Vitamin A Deficiency
+1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,Iron Deficiency
+0,1,0,0,1,0,0,0,0,0,0,0,1,0,0,Vitamin A Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,Vitamin D Deficiency
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B6 Deficiency
+1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,Vitamin C Deficiency
+1,0,1,0,0,1,0,1,1,0,0,0,0,0,0,Magnesium Deficiency
+1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Healthy
+1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Vitamin B12 Deficiency
+1,0,0,0,0,0,0,1,1,0,0,0,0,0,1,Magnesium Deficiency
+1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,Iron Deficiency
+1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,Vitamin B12 Deficiency
